@@ -18,4 +18,6 @@ les commandes apprises sont :
 - git merge
 - git diff
 
+
 Une autre phrase
+une phrase de test
